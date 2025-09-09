@@ -1,0 +1,7 @@
+%%bash
+cat > requirements.txt <<'EOF'
+flask
+gunicorn
+scikit-learn
+joblib
+EOF
